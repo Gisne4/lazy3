@@ -33,6 +33,7 @@ body{
     position: absolute;
     width: 90vw;
     z-index: 5;
+    text-shadow: var(--black-back-ground) 0px 0px 10px;
 }
 .main-text :nth-child(n){
     margin-top: 10px;
